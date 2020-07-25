@@ -1,6 +1,6 @@
 {
   "name": "simple-nextjs-quick-start",
-  "version": "1.0.0",
+  "version": "0.2.1",
   "description": "Nextjs quick start",
   "scripts": {
     "test": "jest --passWithNoTests",
